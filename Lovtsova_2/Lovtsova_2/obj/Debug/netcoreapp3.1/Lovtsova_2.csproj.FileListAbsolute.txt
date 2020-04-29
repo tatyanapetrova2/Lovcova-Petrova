@@ -1,0 +1,11 @@
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\bin\Debug\netcoreapp3.1\Lovtsova_2.exe
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\bin\Debug\netcoreapp3.1\Lovtsova_2.deps.json
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\bin\Debug\netcoreapp3.1\Lovtsova_2.runtimeconfig.json
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\bin\Debug\netcoreapp3.1\Lovtsova_2.runtimeconfig.dev.json
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\bin\Debug\netcoreapp3.1\Lovtsova_2.dll
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\bin\Debug\netcoreapp3.1\Lovtsova_2.pdb
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\obj\Debug\netcoreapp3.1\Lovtsova_2.csprojAssemblyReference.cache
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\obj\Debug\netcoreapp3.1\Lovtsova_2.AssemblyInfoInputs.cache
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\obj\Debug\netcoreapp3.1\Lovtsova_2.AssemblyInfo.cs
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\obj\Debug\netcoreapp3.1\Lovtsova_2.dll
+C:\Users\volos\source\repos\Lovtsova_2\Lovtsova_2\obj\Debug\netcoreapp3.1\Lovtsova_2.pdb
