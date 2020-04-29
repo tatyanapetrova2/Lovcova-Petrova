@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  dllmain.cpp
+  EarlyDateDll.cpp
+C:\Users\volos\source\repos\Lovtsova_1\EarlyDateDll\EarlyDateDll.cpp(4,43): warning C4273: operator >>: несовместимое связывание dll
+C:\Users\volos\source\repos\Lovtsova_1\EarlyDateDll\EarlyDateDll.h(15,27): message : см. предыдущее определение ">>"
+C:\Users\volos\source\repos\Lovtsova_1\EarlyDateDll\EarlyDateDll.cpp(13,42): warning C4273: operator <<: несовместимое связывание dll
+C:\Users\volos\source\repos\Lovtsova_1\EarlyDateDll\EarlyDateDll.h(17,27): message : см. предыдущее определение "<<"
+C:\Users\volos\source\repos\Lovtsova_1\EarlyDateDll\EarlyDateDll.cpp(26,32): warning C4273: earlyDate: несовместимое связывание dll
+C:\Users\volos\source\repos\Lovtsova_1\EarlyDateDll\EarlyDateDll.h(21,23): message : см. предыдущее определение "earlyDate"
+C:\Users\volos\source\repos\Lovtsova_1\EarlyDateDll\EarlyDateDll.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+     Создается библиотека C:\Users\volos\source\repos\Lovtsova_1\Debug\EarlyDateDll.lib и объект C:\Users\volos\source\repos\Lovtsova_1\Debug\EarlyDateDll.exp
+  EarlyDateDll.vcxproj -> C:\Users\volos\source\repos\Lovtsova_1\Debug\EarlyDateDll.dll
